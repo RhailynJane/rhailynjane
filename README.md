@@ -6,32 +6,6 @@
 
 📍 Calgary, Alberta | 📧 crhailynjane@gmail.com | 📱 (403) 540-9188  
 </div>
-
----
-
-## 🎓 Education
-
-**Software Development Diploma**  
-*Southern Alberta Institute of Technology, Calgary AB*
-
-**Bachelor of Science in Electronics Engineering**  
-*Rizal Technological University*  
-*Dean's Lister (2014-2016) | Emerson Scholarship Program*
-
----
-
-## 💼 Professional Experience
-
-### 🔧 Software QA Engineer | Convoso Inc. (2021-Present)
-- Executed testing methodologies (regression, smoke, sanity, performance)
-- Created comprehensive test plans and cases
-- Collaborated with developers and product teams on user stories
-
-### 🛠️ Technical Support Roles | Various Companies
-- **Product Support Engineer** & **Technical Support Analyst** at Convoso Inc.
-- **Level 2 Technical Support Engineer** at Ascent Solutions Pte Ltd
-- **Technical Support Engineer 2** at Emerson Electric Asia
-
 ---
 
 ## 🚀 Technical Skills
@@ -136,16 +110,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RhailynJane&theme=radical)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 Certifications
-
-- **Cypress Automation** (Udemy, 2024)
-- **Figma Essential Training** (LinkedIn Learning, 2024)
-- **Blazor Hybrid & .NET MAUI** (LinkedIn Learning, 2024)
-- **Google IT Support Professional** (2022)
-- **Electronics Engineer License** (2017-Present)
 
 ---
 
