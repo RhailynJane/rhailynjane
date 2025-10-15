@@ -6,7 +6,6 @@
 
 📍 Calgary, Alberta | 📧 crhailynjane@gmail.com | 📱 (403) 540-9188  
 </div>
----
 
 ## 🚀 Technical Skills
 
