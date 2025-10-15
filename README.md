@@ -6,7 +6,6 @@
 
 📍 Calgary, Alberta | 📧 crhailynjane@gmail.com | 📱 (403) 540-9188  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rhailyn-cona)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=flat)](https://github.com/yourusername)
 
 </div>
 
@@ -48,6 +47,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 
 ### **Testing & QA**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
@@ -64,6 +64,41 @@
 ---
 
 ## 📂 Featured Projects
+
+### 🛡️ [SafeSpace Mobile App](https://github.com/RhailynJane/SafeSpace-prototype)
+> Mobile application prototype for safe space community platform
+- **Tech:** React Native, JavaScript, Mobile Development
+- **Features:** Community safety features, user-friendly interface
+
+### 🌐 [SafeSpace Web Platform](https://github.com/RhailynJane/Safespace_web)
+> Web version of the SafeSpace community safety platform
+- **Tech:** JavaScript, Web Development, Responsive Design
+- **Features:** Cross-browser compatibility, accessible design
+
+### 🏥 [Rural Alberta Health Connect Website](https://github.com/RhailynJane/rahc_website)
+> Healthcare platform connecting rural Alberta communities with medical services
+- **Tech:** Web Development, JavaScript
+- **Features:** Healthcare service integration, community connectivity
+
+### 📱 [Rural Alberta Health Connect Mobile](https://github.com/RhailynJane/rural_alberta_health_connect_mobile)
+> Mobile application for healthcare access in rural Alberta
+- **Tech:** React Native, Mobile Development
+- **Features:** Healthcare access, mobile optimization
+
+### 💼 [Professional Portfolio](https://github.com/RhailynJane/Rhailyn_Portfolio)
+> Personal portfolio showcasing projects and skills
+- **Tech:** JavaScript, Web Development
+- **Features:** Project showcase, responsive design
+
+### 🧠 [FitmindAI App](https://github.com/RhailynJane/FitMindAI_App)
+> AI-powered fitness and mental wellness application
+- **Tech:** AI Integration, Mobile/Web Development
+- **Features:** AI recommendations, wellness tracking
+
+### 🎬 [Cinetracker Project](https://github.com/RhailynJane/Cinetracker_Project)
+> Movie and media tracking application
+- **Tech:** Web Development, JavaScript
+- **Features:** Media tracking, user preferences
 
 ### 📚 [Library Management Application](https://github.com/ConaRhai/library_management_app.git)
 > Python-based application with book search, borrowing, and inventory management
@@ -85,7 +120,7 @@
 - **Tech:** HTML, CSS, C#, .NET MAUI, SQL Server
 - **Features:** Real-time tracking, data storage integration
 
-### 🏘️ [Rental Management System](https://github.com/RhailynJane/your-repo-here)
+### 🏘️ Rental Management System
 > Web-based rental property management
 - **Tech:** Blazor, C#, MySQL, Figma
 - **Features:** Tenant information storage, interactive prototypes
@@ -96,9 +131,11 @@
 
 <div align="center">
 
-![Rhailyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rhailyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhailynJane&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RhailynJane&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RhailynJane&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,12 +151,33 @@
 
 ---
 
+## 🌟 Project Categories
+
+<div align="center">
+
+### 🏥 Healthcare & Community
+**SafeSpace** • **Rural Alberta Health Connect**
+
+### 🎯 Personal & Productivity  
+**FitmindAI** • **Cinetracker** • **Portfolio**
+
+### 🛠️ Management Systems
+**Library Management** • **Travel App** • **House Utility** • **Rental System**
+
+### 🐾 Special Projects
+**Dog Care** • **Various Web Applications**
+
+</div>
+
+---
+
 ## 🌟 Highlights
 
 - **Bilingual:** Filipino & English
 - **Strong background** in both software development and electronics engineering
 - **Proven track record** in QA testing and technical support
 - **Continuous learner** with multiple recent certifications
+- **Diverse project portfolio** spanning healthcare, community, and productivity applications
 
 ---
 
@@ -132,6 +190,8 @@ I'm always open to discussing software development, QA engineering, and new oppo
 📫 **Email:** crhailynjane@gmail.com  
 🔗 **LinkedIn:** [www.linkedin.com/in/rhailyn-cona](www.linkedin.com/in/rhailyn-cona)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=RhailynJane&color=blueviolet)
+
+**⚡ Passionate about creating solutions that make a difference in healthcare and community services**
 
 </div>
