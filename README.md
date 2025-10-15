@@ -5,8 +5,6 @@
 **Software Developer | QA Engineer | Electronics Enthusiast**
 
 📍 Calgary, Alberta | 📧 crhailynjane@gmail.com | 📱 (403) 540-9188  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rhailyn-cona)
-
 </div>
 
 ---
